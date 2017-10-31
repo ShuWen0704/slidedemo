@@ -53,8 +53,7 @@ class: center, middle
 
 1.3 座右铭
 
-class: center, middle  
-<font size=10>态度决定人生的高度！</font>
+![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1800049632,2319389146&fm=27&gp=0.jpg)
 
 ---
 
