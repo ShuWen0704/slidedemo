@@ -1,62 +1,68 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 杨舒雯 (1700094622@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/ShuWen0704
 
 ---
 
-## 第一部分
+## 目录
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered">1. 关于<我></font>
 
----
+#### &nbsp; &nbsp; 1.1 简介
+#### &nbsp; &nbsp; 1.2 我的生活
+#### &nbsp; &nbsp; 1.3 座右铭
 
-## 插图
+### 2. 对于大学生活的期望
 
-** Ada Lovelace **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 关于<我>
 
+1.1 简介  
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+我是杨舒雯，元培学院17级本科生，目前的方向是数学。我来自美丽热情的马来西亚。我很喜欢交朋友，很喜欢与朋友聊八卦、开怀大笑的感觉，更喜欢与朋友出游，一起去看世界。与朋友相处的时间片段总是珍贵的，日后回想起也能找回当初开心的感觉。另外，和我不熟悉的人总说我是严肃的女生，事事都要求完美，事事都认真对待。无可否认，我的确是一个完美主义者，我希望花时间去做的任务，结果会是最好的。不过，当和我相处一段时间后，你就会发现其实我也可以很疯，哈哈！只不过，我不习惯在不熟悉的人前曝露本性，或是说不习惯把内心深处的感觉曝露于人前。没错，我就是那种喜欢把情绪收在心底的女孩，哈哈！
 
-Display formula:
+---
+  
 
-$$e^{i\pi} + 1 = 0$$
+## 关于<我>  
+
+1.2 我的生活   
+ 
+来到北京大学，生活重心都在学习上，几乎没有时间去进行娱乐活动，还真的有些怀念与朋友出去咖啡厅吃饭聊天以及去卡拉OK唱歌的时光。每天都只会来往学校和中关新园，最轻松的时刻，应该就是吃饭时间和跳健美操的时间了，因为只有在这时候才能与朋友轻松地聊天~  
+
+初到北大，生活就是如此简单~
+
+## 美丽的北京大学
+
+** 欢迎来到北京大学！ **
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509444161436&di=854f32839a474e30e13134c1cea845b5&imgtype=0&src=http%3A%2F%2Fupload.sgnet.cc%2Fdata%2Fattachement%2Fjpg%2Fsite1%2F20091202%2F00188b8dbc8b0c8010623c.jpg)
+---
+
+## 关于<我>  
+
+1.3 座右铭
+
+class: center, middle  
+<font size=10>态度决定人生的高度！</font>
 
 ---
 
+## 对于大学生活的期望
+
+希望在北京大学可以学到更多有用的知识，不管在待人处事上或是专业知识上，都能有显著的进步。我更希望这四年的大学生活会是能让以后的我永远想念的快乐生活。
+
+---
 class: center, middle
 
 # 谢谢
